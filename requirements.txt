@@ -1,0 +1,4 @@
+scapy
+plotly
+dash
+requests
